@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.23"
+  },
+  "name": "movieapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
